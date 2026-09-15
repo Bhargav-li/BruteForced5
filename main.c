@@ -91,7 +91,7 @@ int main(void) {
     struct node *stack_head_temp = NULL;
 
     int n;
-
+    if(n>1000 || n<1){printf("Enter Valid number of operations");return 0;}
     printf("Enter number of commands: ");
     scanf("%d", &n);
 
