@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-
+//Implemented suiing linked lists for stack and queue . stack has linked list whose new element is added at head . In queue its added at end . 
 
 
 
